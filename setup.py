@@ -270,7 +270,7 @@ def main():
     setup(
         name=package_name,
         version=package_version,
-        url="https://github.com/opencv/opencv-python",
+        url="https://github.com/didier31/opencv-python",
         license="Apache 2.0",
         description="Wrapper package for OpenCV python bindings.",
         long_description=long_description,
